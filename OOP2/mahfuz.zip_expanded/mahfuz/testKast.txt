@@ -1,0 +1,4 @@
+KledingKast [naam=hello]
+	KledingLade [naam=kledinglade 1, totaalGewicht=6.0, maximaalLadeGewicht=2.0]
+		type 1, name 1, 3,0
+		type 2, name 2, 3,0
