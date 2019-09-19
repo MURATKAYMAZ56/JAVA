@@ -1,2 +1,0 @@
-KledingKast [naam=MuratKast]
-	KledingLade [naam=kledinglade 1, totaalGewicht=6.0, maximaalLadeGewicht=2.0]
