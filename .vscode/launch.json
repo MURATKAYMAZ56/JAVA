@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ComparableVsComparator",
+            "request": "launch",
+            "mainClass": "ComparableVsComparator"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Shapeslauncher",
+            "request": "launch",
+            "mainClass": "Shapes/mainShapes.Shapeslauncher",
+            "projectName": "1_Shapes"
+        }
+    ]
+}
